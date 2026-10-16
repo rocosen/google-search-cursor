@@ -1,0 +1,22 @@
+{
+  "name": "google-search-flashdata",
+  "displayName": "Google Search — FlashData",
+  "version": "0.1.1",
+  "description": "Search Google for ranked web pages, titles, URLs and snippets. Build localized SERP snapshots for research and comparison. Uses the paid FlashData API.",
+  "author": {
+    "name": "FlashData",
+    "email": "support@flashdata.dev"
+  },
+  "homepage": "https://flashdata.dev/docs/sources/google_search?utm_source=cursor-directory&utm_medium=integration&utm_campaign=intent_gtm_2026q4&utm_content=google_search-task",
+  "repository": "https://github.com/rocosen/google-search-cursor",
+  "license": "MIT",
+  "keywords": [
+    "google-search",
+    "google-serp",
+    "mcp",
+    "model-context-protocol",
+    "flashdata",
+    "cursor"
+  ],
+  "logo": "assets/logo.svg"
+}
